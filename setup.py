@@ -12,7 +12,6 @@ setup(
     packages=find_packages(),
     install_requires=["pandas", "requests"],
     author="Eleanor Koh",
-    author_email="eleanorkohwy@gmail.com",
     description="TipRanks ETF data ingestion, storage, and portfolio analysis tools",
     long_description=README.read_text(encoding="utf-8"),
     long_description_content_type="text/markdown",
