@@ -16,7 +16,7 @@ setup(
     description="TipRanks ETF data ingestion, storage, and portfolio analysis tools",
     long_description=README.read_text(encoding="utf-8"),
     long_description_content_type="text/markdown",
-    url="https://github.com/elkhz09/tipranks_api",
+    url="https://github.com/elkhz09/tipranks-etf-analytics",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
