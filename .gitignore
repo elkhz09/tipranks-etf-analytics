@@ -8,3 +8,5 @@ dist/
 data/*.db
 tests/tmp*/
 .env
+
+.venv/
